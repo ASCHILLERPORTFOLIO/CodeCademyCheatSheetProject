@@ -1,0 +1,117 @@
+/* comment stuff out with this tag */
+/* Adjust this as necessary but it should get you started (note that #brush, etc references to reqs in my codecademyproject1) */
+/* list of hexadecimal colors:https://www.w3.org/wiki/CSS/Properties/color/keywords */
+/* remove what you don't need below, as needed */
+/* font-face needs all 3: woff2, woff, & tff */
+
+@font-face {
+ font-family: '' ;
+ src: url(' .woff2') format('woff2'),
+      url(' .woff') format('woff'),
+      url(' .ttf') format('truetype'),
+}
+
+h1, 
+h2, 
+h3, 
+p {
+ background-color: ;
+ font-size: px;
+ text-align: ;
+ color: #; /* or--> color: hsla(,,,); or--> color: hsl(,,); or--> color: rgba(,,,); */
+ text-transform: ;
+ font-family: ;
+ font-weight: ;
+ letter-spacing: px;
+ word-spacing: px;
+ line-height: ;
+}
+
+table {
+ border: ;
+ width: px;
+ margin: 0 auto; /* adjust as necessary */
+}
+
+thead {
+ background-color: ;
+ font-size: px;
+ text-align: ;
+ color: #; /* or--> color: hsla(,,,); or--> color: hsl(,,); or--> color: rgba(,,,); */
+ text-transform: ;
+ font-family: ;
+ font-weight: ;
+ letter-spacing: px;
+ word-spacing: px;
+ line-height: ;
+}
+
+td {
+ border-top: ;
+}
+
+h1 {
+ background-image: url("");
+ background-color: ;
+ font-size: px;
+ text-align: ;
+ color: #; /* or--> color: hsla(,,,); or--> color: hsl(,,); or--> color: rgba(,,,); */
+ text-transform: ;
+ font-family: ;
+ font-weight: ;
+ letter-spacing: px;
+ word-spacing: px;
+ line-height: ;
+}
+
+.item h2 {
+ background-color: ;
+ font-size: px;
+ text-align: ;
+ color: #; /* or--> color: hsla(,,,); or--> color: hsl(,,); or--> color: rgba(,,,); */
+ text-transform: ;
+ font-family: ;
+ font-weight: ;
+ letter-spacing: px;
+ word-spacing: px;
+ line-height: ;
+}
+
+.price {
+ background-color: ;
+ font-size: px;
+ text-align: ;
+ color: #; /* or--> color: hsla(,,,); or--> color: hsl(,,); or--> color: rgba(,,,); */
+ text-transform: ;
+ font-family: ;
+ font-weight: ;
+ letter-spacing: px;
+ word-spacing: px;
+ line-height: ;
+}
+
+body {
+ background-color: ;
+ font-size: px;
+ text-align: ;
+ color: #; /* or--> color: hsla(,,,); or--> color: hsl(,,); or--> color: rgba(,,,); */
+ text-transform: ;
+ font-family: ;
+ font-weight: ;
+ letter-spacing: px;
+ word-spacing: px;
+ line-height: ;
+}
+
+#brush{
+ background-color: ;
+ font-size: px;
+ text-align: ;
+ color: #; /* or--> color: hsla(,,,); or--> color: hsl(,,); or--> color: rgba(,,,); */
+ text-transform: ;
+ font-family: ;
+ font-weight: ;
+ letter-spacing: px;
+ word-spacing: px;
+ line-height: ;
+}
