@@ -1,0 +1,8 @@
+/* comment stuff out with this tag */
+/* list of hexadecimal colors:https://www.w3.org/wiki/CSS/Properties/color/keywords */
+/* hsl(hue, satuation, light) color scheme-->color: hsl(120, 60%, 70%) for colors-->1st # is degree of hue, 2nd is saturation, 3rd is lightness */
+/* HSL color scheme w/opacity--> color: hsla(34, 100%, 50%, 0.1); -->1st 3 #s are above, 4th # is the alpha/opacity */
+/* RBG color scheme--> color: rgba(234, 45, 98, 0.33); -->1st 3 # are above [hsl], 4th # is alpha/opacity */
+/* color keyword for zero opacity is transparent--> color: transparent; */
+/* font-family: ; changes the font, use ' ' when the font name has spaces; also font-weight #s go from 1-1000(boldest) */
+/* text-tranform: ; changes the text to uppercase or lowercase based on which you choose */
